@@ -1,6 +1,8 @@
 # E-commerce
 This is an eCommerce website of online clothing store. I build this website using HTNL, CSS and JS. It contains smooth scrolling in each section.
-
+<br>
+[Click Here to go...](https://sakshigamit.github.io/E-commerce/)
+<br>
 # Result
 ![Home](1.png)
 <br>
